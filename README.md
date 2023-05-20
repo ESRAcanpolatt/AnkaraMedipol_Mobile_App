@@ -28,12 +28,12 @@ User Login Screen.
 <br/>
 
 <img align="left" src="https://github.com/ESRAcanpolatt/AnkaraMedipol_Mobile_App/blob/main/medipolll/readme_images/giriş.png" width="300" />
-This is the weolcome screen for users where they can sign up or login.
+This is the welcome screen for users where they can sign up or login.
 <br clear="left"/>
 <br/>
 
 <img align="left" src="https://github.com/ESRAcanpolatt/AnkaraMedipol_Mobile_App/blob/main/medipolll/readme_images/menü.png" width="300" />
-In the home screen, all of the users, their usernames and their profile images can be seen as a horzontally scrollable list.
+On the home screen, all users, usernames and profile pictures can be viewed as a horizontally scrollable list.
 <br clear="left"/>
 <br/>
 
@@ -53,17 +53,17 @@ It is the screen where users can access the school's social media accounts.
 <br/>
 
 <img  align="left" src="https://github.com/ESRAcanpolatt/AnkaraMedipol_Mobile_App/blob/main/medipolll/readme_images/ziyaret.png" width="300"  height="300" />
-It is the screen where users can easily access the places they can visit on the link..
+It is the screen where users can easily access the places they can visit on the link.
 <br clear="left"/>
 <br/>
 
 <img align="left" src="https://github.com/ESRAcanpolatt/AnkaraMedipol_Mobile_App/blob/main/medipolll/readme_images/içerik.png" width="300" />
-The profile page contains information about the urgent need for blood, the current academic calendar and clubs..
+The profile page contains information about the urgent need for blood, the current academic calendar and clubs.
 <br clear="left"/>
 <br/>
 
 <img align="left"  src="https://github.com/ESRAcanpolatt/AnkaraMedipol_Mobile_App/blob/main/medipolll/readme_images/yorum.png" width="300"/>
-This is the section where students can comment under the posts sent..
+This is the section where students can comment under the posts sent.
 <br clear="left"/>
 <br/>
 
